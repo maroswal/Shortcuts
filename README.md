@@ -2,7 +2,7 @@
 Shortcuts for iOS.
 
 + [Casetime.shortcut](https://github.com/maroswal/Shortcuts/raw/master/Casetime.shortcut)  
-  Simple Shortcut to trigger bookings in the caseTime time tracking software.
+  Simple Shortcut to trigger bookings in the [caseTime](https://www.case.at) time tracking software.
   
 + [Casetime Auto.shortcut](https://github.com/maroswal/Shortcuts/raw/master/Casetime%20Auto.shortcut)  
   Shortcut that calls the Casetime.shortcut with an action based on the current hour.  

@@ -1,2 +1,2 @@
-# shortcuts
-iOS Shortcuts
+# Shortcuts
+Shortcuts for iOS.
